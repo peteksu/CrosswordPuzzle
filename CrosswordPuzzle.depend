@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1619728879 source:c:\users\petek\desktop\170709063_midterm_homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<malloc.h>
+
+1619728879 source:c:\users\petek\onedrive\masaüstü\170709063_midterm_homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<malloc.h>
+
